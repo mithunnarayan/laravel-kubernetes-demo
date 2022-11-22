@@ -7,7 +7,7 @@
  * @author   Taylor Otwell <taylor@laravel.com>
  */
 
- echo "Hello from k8s!";
+ echo "Hello from k8s! v2";
 
 define('LARAVEL_START', microtime(true));
 
